@@ -19,3 +19,7 @@ To add changes
 To commit the changes, 
 
     git commit -m "commit message"
+
+To push the changes, 
+
+    git push origin <branchname>
