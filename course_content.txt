@@ -2,21 +2,30 @@
                  PYTHON PROGRAMMING COURSE CONTENT
                 ----------------------------------
 class 01 -- 25th Jan 2024
+--------------------------------------------------------------------------------
     00. Dev Setup
         Installing IDE/Editor
         Installing Python and local setup
         Github access, creating project
 
 class 02 -- 26th Jan 2024
+--------------------------------------------------------------------------------
     01.Introduction
         Importance of Python
         Two versions of Python (2.x & 3.x)
         shebang Line
         docstring
 
-class 03 --
+class 03 -- 29th Jan 2024
+--------------------------------------------------------------------------------
+    Jupyter Notebook
+    understanding Dynamic Typing and Strictly Typing
     built-in functions
 	Comment Operator
+    Escape Sequences
+
+class 04 --
+--------------------------------------------------------------------------------
     keywords and Identifiers
     Line continuation and statement separator operators
 
