@@ -24,11 +24,15 @@ class 03 -- 29th Jan 2024
 	Comment Operator
     Escape Sequences
 
-class 04 --
+class 04 -- 31st Jan 2024
 --------------------------------------------------------------------------------
     keywords and Identifiers
+    Identifier Naming conventions
+    understanding Python Interpreter Language
     Line continuation and statement separator operators
 
+class 05 -- 
+--------------------------------------------------------------------------------
 02.Basics
     Arithmetic operations
         +, -, , /, //, %, *
