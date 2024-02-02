@@ -38,14 +38,24 @@ class 05 -- 01st Feb, 2024
     understanding Python interactive mode
     
     Arithmetic operations
-        +, -, , /, //, %, *
+        +, -, *, /, //, %, **
         divmod() function
         Practical Problem solving
         Operator precedence in Arithmetic operations
 
-class 06 -- 
+class 06 -- 02nd Feb 2024
 --------------------------------------------------------------------------------
+        Practical Problem solving
+            ration store 
+            fruit store
+            grocery store
+            savings bank
+            bank loan - simple and compound interest
+        Type conversions
         working with complex numbers
+
+class 07 -- 
+--------------------------------------------------------------------------------
         abs() function
     String operations
         Usage of single, double and triple quotes
