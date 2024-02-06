@@ -54,13 +54,17 @@ class 06 -- 02nd Feb 2024
         Type conversions
         working with complex numbers
 
-class 07 -- 
+class 07 -- 6th Feb 2024
 --------------------------------------------------------------------------------
         abs() function
     String operations
         Usage of single, double and triple quotes
         len() function
-        Indexing and Slicing Strings
+        Indexing Strings
+
+class 08 -- 
+--------------------------------------------------------------------------------        
+        Slicing Strings
         string attributes
         String formatting: old & new styles, f-strings
         bytearray() and byte() strings
