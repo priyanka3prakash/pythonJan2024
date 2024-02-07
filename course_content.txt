@@ -62,10 +62,13 @@ class 07 -- 6th Feb 2024
         len() function
         Indexing Strings
 
-class 08 -- 
+class 08 -- 7th Feb 2024
 --------------------------------------------------------------------------------        
         Slicing Strings
         string attributes
+
+class 09 -- 
+--------------------------------------------------------------------------------        
         String formatting: old & new styles, f-strings
         bytearray() and byte() strings
         unicode strings
