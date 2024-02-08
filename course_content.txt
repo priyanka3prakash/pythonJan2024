@@ -1,14 +1,6 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT
                 ----------------------------------
-class 09 -- 
---------------------------------------------------------------------------------        
-        String formatting: old & new styles, f-strings
-        bytearray() and byte() strings
-        unicode strings
-    Usage of help
-    Usage of pydoc
-
 03.Language Components
     Relational Operations
     Logical Operations

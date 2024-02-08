@@ -60,6 +60,12 @@
             Slicing Strings
             string attributes
 
+### class 09 -- 8th Feb 2024 [Part 1]()  [Part 2]()     
+            String formatting: old & new styles, f-strings
+            bytearray() and byte() strings
+            unicode strings
+        Usage of help
+        Usage of pydoc
 
 ## Git Process
 To get the git installed version,
