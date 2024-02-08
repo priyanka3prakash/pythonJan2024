@@ -1,34 +1,34 @@
 # Python Programming Course Jan2024
 
-## Course Completed 
+## [Course Completed](https://www.youtube.com/playlist?list=PLTEjme3I6BCjX-WeKuZSW-opo42wjO-pV)
 
-### class 01 -- 25th Jan 2024
+### [class 01 -- 25th Jan 2024](https://youtu.be/HcQF1E6rP9Y)
         00. Dev Setup
             Installing IDE/Editor
             Installing Python and local setup
             Github access, creating project
 
-### class 02 -- 26th Jan 2024
+### [class 02 -- 26th Jan 2024](https://youtu.be/vOa87IYrmgg)
         01.Introduction
             Importance of Python
             Two versions of Python (2.x & 3.x)
             shebang Line
             docstring
 
-### class 03 -- 29th Jan 2024
+### [class 03 -- 29th Jan 2024](https://youtu.be/F2SGyzVivT8)
         Jupyter Notebook
         understanding Dynamic Typing and Strictly Typing
         built-in functions
         Comment Operator
         Escape Sequences
 
-### class 04 -- 31st Jan 2024
+### [class 04 -- 31st Jan 2024](https://youtu.be/Gi_9dzTm8iA)
         keywords and Identifiers
         Identifier Naming conventions
         understanding Python Interpreter Language
         Line continuation and statement separator operators
 
-### class 05 -- 01st Feb, 2024
+### [class 05 -- 01st Feb, 2024](https://youtu.be/RxCQ85finTE)
     02.Basics
         Working with Jupyter Notebook
         understanding Python interactive mode
@@ -39,7 +39,7 @@
             Practical Problem solving
             Operator precedence in Arithmetic operations
 
-### class 06 -- 02nd Feb 2024
+### class 06 -- 02nd Feb 2024  [Part 1](https://youtu.be/ID2SPesa-H8)  [Part 2](https://youtu.be/MrVeuOiuyMM)
             Practical Problem solving
                 ration store 
                 fruit store
@@ -49,14 +49,14 @@
             Type conversions
             working with complex numbers
 
-### class 07 -- 6th Feb 2024
+### [class 07 -- 6th Feb 2024](https://youtu.be/rJVaKjiUAuA)
             abs() function
         String operations
             Usage of single, double and triple quotes
             len() function
             Indexing Strings
 
-### class 08 -- 7th Feb 2024
+### class 08 -- 7th Feb 2024 [Part 1](https://youtu.be/YC6oZte1fKo) [Part2](https://youtu.be/dK8qiwwSJ2U)
             Slicing Strings
             string attributes
 
