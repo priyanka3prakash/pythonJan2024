@@ -65,7 +65,7 @@
             bytearray() and byte() strings
             unicode strings
 
-### class 10 -- 9th Feb 2024 [Part 1]()  [Part 2]()
+### class 10 -- 9th Feb 2024 [Part 1](https://youtu.be/SpLAwP-ty6o)  [Part 2](https://youtu.be/O2-j9Io4MEg)
             Usage of help
             Usage of pydoc
 
