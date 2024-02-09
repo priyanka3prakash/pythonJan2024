@@ -1,12 +1,7 @@
                 ------------------------------------
-                 PYTHON PROGRAMMING COURSE CONTENT
+                 PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
 03.Language Components
-    Relational Operations
-    Logical Operations
-    Boolean Operations
-    Bitwise Operations
-    Identity Operations
     range() function
     Conditional Operations
     Structural Pattern Matching

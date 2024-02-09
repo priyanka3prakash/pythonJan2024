@@ -64,8 +64,17 @@
             String formatting: old & new styles, f-strings
             bytearray() and byte() strings
             unicode strings
-        Usage of help
-        Usage of pydoc
+
+### class 10 -- 9th Feb 2024 [Part 1]()  [Part 2]()
+            Usage of help
+            Usage of pydoc
+
+    03.Language Components
+        Relational Operations
+        Logical Operations
+        Boolean Operations
+        Bitwise Operations
+        Identity Operations
 
 ## Git Process
 To get the git installed version,
