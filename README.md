@@ -76,7 +76,7 @@
         Bitwise Operations
         Identity Operations
 
-### class 11 -- 12th Feb 2024
+### class 11 -- 12th Feb 2024 [Part 1](https://youtu.be/vOBCoIq5DZE) [Part 2](https://youtu.be/6GPAYr3NGzg)
         range() function
         Conditional Operations
 
