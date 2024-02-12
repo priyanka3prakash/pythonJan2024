@@ -76,6 +76,16 @@
         Bitwise Operations
         Identity Operations
 
+### class 11 -- 12th Feb 2024 [Part 1](https://youtu.be/vOBCoIq5DZE) [Part 2](https://youtu.be/6GPAYr3NGzg)
+        range() function
+        Conditional Operations
+
+### class 12 --
+        Ternary Operations
+        Structural Pattern Matching
+        Loops: for & while, break, continue, pass, sys.exit
+        Walrus Operator
+
 ## Git Process
 To get the git installed version,
 
