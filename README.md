@@ -80,7 +80,7 @@
         range() function
         Conditional Operations
 
-### class 12 -- 13th Feb 2024 [Part 1]() [Part 2]()
+### class 12 -- 13th Feb 2024 [Part 1](https://youtu.be/8lBjr2lzZZs) [Part 2](https://youtu.be/EMzFCdiy0t0)
         Ternary Operations
         Structural Pattern Matching
         Loops: for & while, break
