@@ -80,10 +80,14 @@
         range() function
         Conditional Operations
 
-### class 12 --
+### class 12 -- 13th Feb 2024 [Part 1]() [Part 2]()
         Ternary Operations
         Structural Pattern Matching
-        Loops: for & while, break, continue, pass, sys.exit
+        Loops: for & while, break
+        Real world Problem solving
+
+## class 13 -- 
+        continue, pass, sys.exit
         Walrus Operator
 
 ## Git Process
