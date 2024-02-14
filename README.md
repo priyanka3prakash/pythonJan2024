@@ -86,9 +86,13 @@
         Loops: for & while, break
         Real world Problem solving
 
-## class 13 -- 
-        continue, pass, sys.exit
-        Walrus Operator
+## class 13 -- 14th Feb 2024
+            continue, pass, sys.exit
+            Walrus Operator
+    04.Exception Handling
+        Exceptions Hierarchy
+        Different types of errors, error vs exception and exception groups
+        Handling single Exceptions
 
 ## Git Process
 To get the git installed version,
