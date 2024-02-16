@@ -94,12 +94,20 @@
         Different types of errors, error vs exception and exception groups
         Handling single Exceptions
 
-### class 14 
+### class 14 -- 16th Feb 2024
         multiple exceptions
         raising exceptions
         asserts
         traceback
         warnings
+
+    05.Debugging
+        Importance of logical errors
+        Debugging with pydevd
+        Debugging with pdb, ipdb, pudb
+        breakpoint() function
+        PYTHONBREAKPOINT environment variable usage
+
 
 ## Git Process
 To get the git installed version,
