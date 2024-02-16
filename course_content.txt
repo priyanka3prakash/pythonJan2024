@@ -1,11 +1,7 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
-and multiple exceptions
-    raising exceptions
-    asserts
-    traceback
-    warnings
+
 
 05.Debugging
 	Importance of logical errors
