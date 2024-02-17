@@ -2,8 +2,6 @@
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
 06.Collections
-    Lists
-    Tuples & namedtuples
     Sets
     Dictionaries
         zip() function
