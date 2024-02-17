@@ -108,6 +108,17 @@
         breakpoint() function
         PYTHONBREAKPOINT environment variable usage
 
+### clas 15 -- 17th Feb 2024
+    06.Collections
+        Lists
+            Mutability
+            slice()
+            copy problem - shallow copy vs deepcopy
+            Anti-patterns; Referencing Leakage
+        Tuples & namedtuples
+            Immutability
+            Unpacking
+            getattr(), hasattr()
 
 ## Git Process
 To get the git installed version,

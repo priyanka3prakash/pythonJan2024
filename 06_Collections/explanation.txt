@@ -1,0 +1,23 @@
+data types -- int, float, string , None, bool
+
+data structures 
+    Lists   -- []  -- mutable object
+    Tuples  -- () --- immutable object
+    sets   --- {1,2,3,4}    -- mutable objects
+        frozenset -==== immutavble object
+    Dictionaries --{1:2, 3:4}  --- mutable object
+        (map/HAshmap/object)
+
+    Queues
+    stacks
+
+
+
+RAM ------------    Heap , Stack
+                    python 
+                        Private HEap
+                    persl 
+                    chrome 
+                    outlook 
+ROM ----- Firmware 
+HDD
