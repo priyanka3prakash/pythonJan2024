@@ -86,7 +86,7 @@
         Loops: for & while, break
         Real world Problem solving
 
-### class 13 -- 14th Feb 2024
+### [class 13 -- 14th Feb 2024](https://youtu.be/AzqRXddShWQ)
             continue, pass, sys.exit
             Walrus Operator
     04.Exception Handling
@@ -94,7 +94,7 @@
         Different types of errors, error vs exception and exception groups
         Handling single Exceptions
 
-### class 14 -- 16th Feb 2024
+### class 14 -- 16th Feb 2024 [Part 1](https://youtu.be/OXMa0TkTi58)  [Part 2](https://youtu.be/JrTZB6yAePk) [Part 3](https://youtu.be/O-QPxNYXcPM)
         multiple exceptions
         raising exceptions
         asserts
@@ -108,7 +108,7 @@
         breakpoint() function
         PYTHONBREAKPOINT environment variable usage
 
-### clas 15 -- 17th Feb 2024
+### class 15 -- 17th Feb 2024 [Part 1](https://youtu.be/qU5qLfSFWgI) [Part 2](https://youtu.be/uQMkuJsXVJM) [Part 3](https://youtu.be/V75K1r9HzbY)
     06.Collections
         Lists
             Mutability
@@ -120,11 +120,12 @@
             Unpacking
             getattr(), hasattr()
 
-### clas 16 -- 19th Feb 2024
+### class 16 -- 19th Feb 2024 [Part 1](https://youtu.be/jjfAsuVeQxg) [Part 2](https://youtu.be/ZUnyXPJpxBo)
     06.Collections
         Sets & frozensets
         Dictionaries
             zip() function
+
 
 ## Git Process
 To get the git installed version,
