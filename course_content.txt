@@ -2,10 +2,6 @@
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
 06.Collections
-    Sets
-    Dictionaries
-        zip() function
-        workaround for switch case
     Comprehensions
     Working with Iterables - sum(), max(), min()
 

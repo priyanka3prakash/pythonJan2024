@@ -120,6 +120,12 @@
             Unpacking
             getattr(), hasattr()
 
+### clas 16 -- 19th Feb 2024
+    06.Collections
+        Sets & frozensets
+        Dictionaries
+            zip() function
+
 ## Git Process
 To get the git installed version,
 
