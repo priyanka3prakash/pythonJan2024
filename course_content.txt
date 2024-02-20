@@ -1,10 +1,6 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
-06.Collections
-    Comprehensions
-    Working with Iterables - sum(), max(), min()
-
 07.Functions
     Functions with & without arguments, keyword arguments
     Functions with Different return types and unpacking
