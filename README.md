@@ -126,6 +126,11 @@
         Dictionaries
             zip() function
 
+### class 17 -- 20th Feb 2024
+    06.Collections
+        Comprehensions
+        Working with Iterables - sum(), max(), min()
+
 
 ## Git Process
 To get the git installed version,
