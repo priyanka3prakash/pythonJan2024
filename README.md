@@ -131,6 +131,24 @@
         Comprehensions
         Working with Iterables - sum(), max(), min()
 
+### class 18 -- 21st Feb 2024
+    07.Functions
+        Functions with & without arguments, keyword arguments
+        Functions with Different return types and unpacking
+        Functions with with Default arguments
+        variadic functions : variable arguments and variable keyword arguments
+        Functions with keyword only arguments
+
+### class 19 --
+        Scoping: Global vs Local
+            call by reference
+            call by value
+        Partial Functions
+        Anonymous(Lambda) Functions
+        Higher order functions: map(), filter(), functool.reduce()
+        Recursions and recursions limit
+        inner functions
+        closures
 
 ## Git Process
 To get the git installed version,
