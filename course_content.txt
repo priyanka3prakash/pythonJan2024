@@ -1,8 +1,6 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
-
-
 08.Decorator Design Pattern
     Necessity
     function Decorator

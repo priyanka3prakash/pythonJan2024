@@ -139,7 +139,7 @@
         variadic functions : variable arguments and variable keyword arguments
         Functions with keyword only arguments
 
-### class 19 --
+### class 19 -- 22nd Feb 2024
         Scoping: Global vs Local
             call by reference
             call by value
@@ -148,6 +148,8 @@
         Higher order functions: map(), filter(), functool.reduce()
         Recursions and recursions limit
         inner functions
+
+### class 20 --  
         closures
 
 ## Git Process
