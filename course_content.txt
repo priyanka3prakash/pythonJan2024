@@ -1,16 +1,6 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
-08.Decorator Design Pattern
-    Necessity
-    function Decorator
-    Practical Examples
-    syntactic sugar for decorators
-    multiple decorators on same function
-    decorators with arguments
-    functools - wrap, lru_cache
-    class decorator
-
 09.Iterables, Iterators, Generators and co-routines
     Iterables
         different ways of extracting values from iterables
