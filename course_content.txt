@@ -1,21 +1,6 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
-09.Iterables, Iterators, Generators and co-routines
-    Iterables
-        different ways of extracting values from iterables
-    Iterators
-        iter() protocol
-        itertools module
-    Generators
-        yield vs return
-        function vs Generator
-        Generator pipelining
-        Generator Expression
-    Coroutine
-        Generator vs Coroutine
-        coroutine pipelining
-
 10.Modules
     Basic Modules
         - math, sys, argparse, os, shutil, pathlib, subprocess, getpass
