@@ -149,7 +149,7 @@
         Recursions and recursions limit
         inner functions
 
-### class 20 --  
+### class 20 -- 23rd Feb 2024
         closures
 
     08.Decorator Design Pattern
@@ -161,6 +161,27 @@
         decorators with arguments
         functools - wrap, lru_cache
         class decorator
+
+### class 21 -- 26th Feb 2024
+
+    09.Iterables, Iterators, Generators and co-routines
+        Iterables
+            different ways of extracting values from iterables
+        Iterators
+            iter() protocol
+            itertools module
+        Generators
+            yield vs return
+            function vs Generator
+            Generator pipelining
+            Generator Expression
+
+
+### class 22 -- 
+
+        Coroutine
+            Generator vs Coroutine
+            coroutine pipelining
 
 ## Git Process
 To get the git installed version,
