@@ -177,11 +177,15 @@
             Generator Expression
 
 
-### class 22 -- 
+### class 22 -- 05th March, 2024
 
         Coroutine
             Generator vs Coroutine
             coroutine pipelining
+
+    10.Modules
+        Basic Modules
+            - math
 
 ## Git Process
 To get the git installed version,

@@ -3,7 +3,7 @@
                 ----------------------------------
 10.Modules
     Basic Modules
-        - math, sys, argparse, os, shutil, pathlib, subprocess, getpass
+        - sys, argparse, os, shutil, pathlib, subprocess, getpass
     time related
         - time, datetime, pytz, timeit, calendar
     concurrency
