@@ -187,6 +187,15 @@
         Basic Modules
             - math
 
+### class 23 -- 08th March, 2024
+        Virtual Environments - Importance & usage
+
+        Basic Modules
+            - sys, platform, argparse
+                - command line args
+                - importance of sys.path
+                    
+
 ## Git Process
 To get the git installed version,
 

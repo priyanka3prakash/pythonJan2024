@@ -1,0 +1,23 @@
+
+Gets from public repo
+    pip install -U virtualenv
+
+gets from private repo
+    pip install -U virtualenv --index-url privaterepourl 
+    pip install -U virtualenv -i privaterepourl
+
+
+
+virtual environment creation 
+    virtualenv <ENVIRONMENT_NAME>
+    virtualenv .venv 
+
+activating the virtualenv
+    Linux
+        chmod +x .venv/bin/activate
+        source .venv/bin/activate
+
+    windows
+        .venv/scripts/activate
+
+which python
