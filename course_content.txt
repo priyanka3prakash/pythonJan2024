@@ -2,10 +2,7 @@
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
 10.Modules
-    Basic Modules
-        - sys, argparse, os, shutil, pathlib, subprocess, getpass
-    time related
-        - time, datetime, pytz, timeit, calendar
+
     concurrency
         - Multiprocessing, Multithreading
     others
