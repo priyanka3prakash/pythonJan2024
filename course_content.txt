@@ -1,16 +1,6 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
-10.Modules
-
-    concurrency
-        - Multiprocessing, Multithreading
-    others
-        - random, collections, atexit, contextlib, base64, turtle, tqdm
-
-    create user-defined module
-    creating user-defined package
-
 11.File Operations
     flat files
     Non-flat files
