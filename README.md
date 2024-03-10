@@ -199,13 +199,18 @@
         Basic Modules
             - os, shutil, pathlib, subprocess, getpass
         time related
-            - time, datetime, pytz, timeit, calendar
+            - time
 
-### class 25 -- 
+### class 25 -- 09th March, 2024
 
         time related
-            - time, 
+            - datetime, pytz, timeit, calendar 
 
+        others
+            - random, collections, atexit, contextlib, base64
+
+        create user-defined module
+        creating user-defined package
 
 ## Git Process
 To get the git installed version,
