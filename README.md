@@ -212,6 +212,29 @@
         create user-defined module
         creating user-defined package
 
+### class 26 -- 11th March, 2024
+    11.File Operations
+        flat files
+        Non-flat files
+            pickle
+            shelve
+            xml
+
+### class 27 -- 
+            csv
+            dat
+            xls/xlsx
+            json
+            yaml
+            parquet
+            avro
+        Image files
+            displaying, creating and editing images
+        zipping files: .zip, .tar
+        pdf files
+        config files : .ini, .cfg
+        pyw files
+
 ## Git Process
 To get the git installed version,
 
