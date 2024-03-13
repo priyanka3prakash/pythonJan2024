@@ -126,12 +126,12 @@
         Dictionaries
             zip() function
 
-### class 17 -- 20th Feb 2024
+### [class 17 -- 20th Feb 2024](https://www.youtube.com/watch?v=rkwxjcRyokY)
     06.Collections
         Comprehensions
         Working with Iterables - sum(), max(), min()
 
-### class 18 -- 21st Feb 2024
+### class 18 -- 21st Feb 2024 [Part 1](https://youtu.be/TAX75Mou7jM) [Part 2](https://youtu.be/0Tdfy0cTTmY)
     07.Functions
         Functions with & without arguments, keyword arguments
         Functions with Different return types and unpacking
@@ -211,6 +211,29 @@
 
         create user-defined module
         creating user-defined package
+
+### [class 26 -- 11th March, 2024](https://youtu.be/TmULXEOiwgM)
+    11.File Operations
+        flat files
+        Non-flat files
+            pickle
+            shelve
+            xml
+
+### class 27 -- 
+            csv
+            dat
+            xls/xlsx
+            json
+            yaml
+            parquet
+            avro
+        Image files
+            displaying, creating and editing images
+        zipping files: .zip, .tar
+        pdf files
+        config files : .ini, .cfg
+        pyw files
 
 ## Git Process
 To get the git installed version,
