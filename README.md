@@ -139,7 +139,7 @@
         variadic functions : variable arguments and variable keyword arguments
         Functions with keyword only arguments
 
-### class 19 -- 22nd Feb 2024
+### [class 19 -- 22nd Feb 2024](https://youtu.be/aQpi3ONH0xw)
         Scoping: Global vs Local
             call by reference
             call by value
@@ -149,7 +149,7 @@
         Recursions and recursions limit
         inner functions
 
-### class 20 -- 23rd Feb 2024
+### [class 20 -- 23rd Feb 2024](https://youtu.be/Ma5M3NarRZI)
         closures
 
     08.Decorator Design Pattern
@@ -162,7 +162,7 @@
         functools - wrap, lru_cache
         class decorator
 
-### class 21 -- 26th Feb 2024
+### [class 21 -- 26th Feb 2024](https://youtu.be/dFhpINyI_Jw)
 
     09.Iterables, Iterators, Generators and co-routines
         Iterables
@@ -177,7 +177,7 @@
             Generator Expression
 
 
-### class 22 -- 05th March, 2024
+### [class 22 -- 05th March 2024](https://youtu.be/Ao-OnluEYIQ)
 
         Coroutine
             Generator vs Coroutine
@@ -187,7 +187,7 @@
         Basic Modules
             - math
 
-### class 23 -- 07th March, 2024
+### [class 23 -- 07th March 2024](https://youtu.be/be76_7CAdyI)
         Virtual Environments - Importance & usage
 
         Basic Modules
@@ -220,7 +220,7 @@
             shelve
             xml
 
-### class 27 -- 
+### class 27 -- 13th March, 2024
             csv
             dat
             xls/xlsx
