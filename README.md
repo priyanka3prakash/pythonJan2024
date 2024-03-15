@@ -225,11 +225,10 @@
             dat
             xls/xlsx
             json
+
+### class 28 -- 14th March, 2024
             yaml
-            parquet
-            avro
-        Image files
-            displaying, creating and editing images
+            Toml
         zipping files: .zip, .tar
         pdf files
         config files : .ini, .cfg
