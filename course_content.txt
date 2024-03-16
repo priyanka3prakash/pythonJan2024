@@ -1,15 +1,6 @@
                 ------------------------------------
                  PYTHON PROGRAMMING COURSE CONTENT PENDING
                 ----------------------------------
-12.Logging
-    Simple logging
-    configuring log file
-    formatting logs and adding timestamp
-    working with file handler and stream hanlder
-    configuring multiple handlers
-    color logging
-    Rotating logger
-
 13. OOP
     Importance of OOP
     Instantiation and managing attributes
