@@ -1,0 +1,51 @@
+{
+    "created": 1710551029.9048917,
+    "filename": "16_logging_json.py",
+    "funcName": "<module>",
+    "levelname": "WARNING",
+    "lineno": 42,
+    "module": "16_logging_json",
+    "msecs": 904.0,
+    "msg": "warning message",
+    "name": "__main__",
+    "pathname": "/workspaces/pythonJan2024/12_Logging/a_builtin_logging/16_logging_json.py",
+    "process": 34139,
+    "processName": "MainProcess",
+    "relativeCreated": 24.7037410736084,
+    "thread": 139658472563328,
+    "threadName": "MainThread"
+}
+{
+    "created": 1710551029.905308,
+    "filename": "16_logging_json.py",
+    "funcName": "<module>",
+    "levelname": "ERROR",
+    "lineno": 43,
+    "module": "16_logging_json",
+    "msecs": 905.0,
+    "msg": "error message",
+    "name": "__main__",
+    "pathname": "/workspaces/pythonJan2024/12_Logging/a_builtin_logging/16_logging_json.py",
+    "process": 34139,
+    "processName": "MainProcess",
+    "relativeCreated": 25.120019912719727,
+    "thread": 139658472563328,
+    "threadName": "MainThread"
+}
+{
+    "created": 1710551029.9056735,
+    "filename": "16_logging_json.py",
+    "funcName": "<module>",
+    "levelname": "CRITICAL",
+    "lineno": 44,
+    "module": "16_logging_json",
+    "msecs": 905.0,
+    "msg": "critical message",
+    "name": "__main__",
+    "pathname": "/workspaces/pythonJan2024/12_Logging/a_builtin_logging/16_logging_json.py",
+    "process": 34139,
+    "processName": "MainProcess",
+    "relativeCreated": 25.485515594482422,
+    "thread": 139658472563328,
+    "threadName": "MainThread"
+}

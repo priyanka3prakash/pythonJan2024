@@ -234,6 +234,21 @@
         config files : .ini, .cfg
         pyw files
 
+### class 29 -- 15th March, 2024
+    12.Logging
+        Simple logging
+        configuring log file
+        formatting logs and adding timestamp
+        working with file handler and stream hanlder
+        configuring multiple handlers
+        color logging
+        Rotating logger
+
+        Structlog, loguru modules
+        Sentry Usage, and introduction to logging tools (splunk, Sumologic, Kinbana)
+
+
+
 ## Git Process
 To get the git installed version,
 
