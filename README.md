@@ -247,7 +247,25 @@
         Structlog, loguru modules
         Sentry Usage, and introduction to logging tools (splunk, Sumologic, Kinbana)
 
-
+### class 30 -- 21st March, 2024
+    13. OOP
+        Importance of OOP
+        Instantiation and managing attributes
+        constructor and Importance of self
+        instance and class variables
+        Encapsulation
+        MRO, Single and multiple inheritance
+        
+### class 31 -- 
+        composition
+        Method Overwriting, Operator Overloading
+        instance, class and static methods
+        property decorator
+        Dunder(magic) methods
+        reprlib module
+        creating context manager class
+        Dataclasses
+        Abstract Classes
 
 ## Git Process
 To get the git installed version,
