@@ -256,7 +256,7 @@
         Encapsulation
         MRO, Single and multiple inheritance
         
-### class 31 -- 
+### class 31 -- 26th March, 2024
         composition
         Method Overwriting, Operator Overloading
         instance, class and static methods
@@ -266,6 +266,21 @@
         creating context manager class
         Dataclasses
         Abstract Classes
+
+### class 32 -- 01st April, 2024
+    14. Regular Expressions
+        re module
+        compiling regex objects
+        match & search
+        find & finditer
+        regex Flags
+        Greedy & Non-Greedy patterns
+        findall & finditer
+        sub and subn
+        regex Flags
+        groups and groupdicts
+        Pearl-style regexes
+        Realworld Problem (log analyses, email Validation, etc)
 
 ## Git Process
 To get the git installed version,
